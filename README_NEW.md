@@ -45,20 +45,17 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## Usage
 
 ### Adding Timezones
-
 - Use the search bar to find any city or timezone.
 - Click a suggestion to add it to your dashboard.
 - Your current location is automatically detected and displayed at the top.
 
 ### Visual Timeline
-
 - The left panel shows a synchronized 24-hour timeline for all your timezones.
 - The centered "NOW" line shows the current moment across all timezones.
 - Color-coded segments help you quickly identify work hours, sleep time, and more.
 - Hours shift smoothly every minute for real-time tracking.
 
 ### Timezone Cards
-
 - **Show/Hide Seconds**: Click the "s" button next to the time to toggle seconds display.
 - **Custom Labels**: Click "Add Label" to personalize each timezone (e.g., "Office Hours", "Family").
 - **Time Difference**: See at a glance how many hours ahead (+) or behind (-) each timezone is from yours.
@@ -66,7 +63,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 - **Remove**: Delete any timezone card except your auto-detected location.
 
 ### Customization
-
 - Toggle dark mode using the sun/moon icon in the header.
 - All preferences and timezones are saved locally in your browser.
 
@@ -83,14 +79,12 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## API Keys
 
 To run this app, you'll need free API keys from:
-
 - [TimezoneDB](https://timezonedb.com/api) - for timezone information
 - [GeoNames](https://www.geonames.org/export/web-services.html) - for geocoding (free account required)
 
 ## Contributing
 
 PRs welcome! Please:
-
 - Add tests for new features
 - Run the linting script before submitting
 - Follow the existing code style
@@ -101,4 +95,4 @@ MIT
 
 ---
 
-Built with ❤️ using Next.js.
+Built with ❤︎ using Next.js.
